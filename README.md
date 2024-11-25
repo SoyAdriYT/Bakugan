@@ -1,4 +1,4 @@
-# Pitbull Hub X 🐉
+# Bakugan 🐉
 
 Discord : https://discord.gg/yZTduXkhMn
 
