@@ -1,3 +1,27 @@
+--[[ // // // // // // // // // // // // // // // // // // // // //
+
+█░░ █▀█ ▄▀█ █▀▄ █▀▀ █▀█
+█▄▄ █▄█ █▀█ █▄▀ ██▄ █▀▄
+
+
+██████╗░░█████╗░██╗░░██╗██╗░░░██╗░██████╗░░█████╗░███╗░░██╗
+██╔══██╗██╔══██╗██║░██╔╝██║░░░██║██╔════╝░██╔══██╗████╗░██║
+██████╦╝███████║█████═╝░██║░░░██║██║░░██╗░███████║██╔██╗██║
+██╔══██╗██╔══██║██╔═██╗░██║░░░██║██║░░╚██╗██╔══██║██║╚████║
+██████╦╝██║░░██║██║░╚██╗╚██████╔╝╚██████╔╝██║░░██║██║░╚███║
+╚═════╝░╚═╝░░╚═╝╚═╝░░╚═╝░╚═════╝░░╚═════╝░╚═╝░░╚═╝╚═╝░░╚══╝
+             V V V V V V V V V V V V V V V 
+        >>>  https://discord.gg/yZTduXkhMn <<<
+             Ʌ Ʌ Ʌ Ʌ Ʌ Ʌ Ʌ Ʌ Ʌ Ʌ Ʌ Ʌ Ʌ Ʌ Ʌ
+
+Supports all executors
+Credits:
+    • G - MX2: All script
+    • Light/Jayden: Manual Spam
+Supports these games:
+    • Blade Ball
+// // // // // // // // // // // // // // // // // // // // // ]]--
+
 local success, response = pcall(function()
     return game:HttpGet("https://raw.githubusercontent.com/SoyAdriYT/Bakugan/refs/heads/main/Games/Blade%20Ball.lua")
 end)
