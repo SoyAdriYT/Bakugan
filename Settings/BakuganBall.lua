@@ -1,7 +1,13 @@
+local ServiceBall = "Comando Exclusivo Modules"
+
+if ServiceBall ~= "Comando Exclusivo" then
+    error("The script cannot run because 'ServiceBall' does not match the required value.")
+end
+
+local Service64 = "BakuganModules"
 local Bakugan_module = {}
 
 local Players = game:GetService("Players")
-
 local AdService = game:GetService("AdService")
 local SocialService = game:GetService("SocialService")
 
@@ -29,5 +35,7 @@ end
 function Bakugan_module.getBall()
     return findRealBall()
 end
+
+print(ServiceBall)
 
 return Bakugan_module
