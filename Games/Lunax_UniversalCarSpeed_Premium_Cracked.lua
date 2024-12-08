@@ -1,3 +1,5 @@
+-- Craked by G - MX2
+
 local v0 = string.char;
 local v1 = string.byte;
 local v2 = string.sub;
@@ -25,7 +27,7 @@ if v9(v11) then
     print('You are a premium user');
     local v17 = game.PlaceId;
     if (v17 == 4566572536) then
-        local v18 = loadstring(game:HttpGetAsync('https://raw.githubusercontent.com/Alexisisback/Library/main/library%20nothing.lua'))();
+        local v18 = loadstring(game:HttpGetAsync('https://raw.githubusercontent.com/Alexisisback/Library/refs/heads/main/library_nothing.lua'))();
         function Hop()
             local v22 = game.PlaceId;
             local v23 = game:GetService('HttpService');
